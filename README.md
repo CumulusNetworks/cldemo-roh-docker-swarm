@@ -1,3 +1,6 @@
+# DEPRECATED
+## This repo is no longer maintained.<br>For a list of current demos, please visit:<br>https://gitlab.com/cumulus-consulting/goldenturtle/<br><br><br>
+
 This demo shows one of several different approaches to running Docker. This approach uses Docker Swarm to create overlay (vxlan) tunnels between the servers.   Extra redundancy to the hosts is provided using Cumulus Host Pack with BGP unnumbered. More information on this demo is included in the Cumulus Networks paper: [Container Networking with Cumulus Linux Validated Design Guide: Using Docker Swarm with Host Pack](https://cumulusnetworks.com/learn/web-scale-networking-resources/validated-design-guides/Container-with-VXLAN-and-Docker-Swarm-with-Host-Pack/)
 
 
